@@ -3,7 +3,6 @@ COLOR 0B
 echo ©©©                      DayZ Database Backup Script                         ©©©
 echo ©©©                                                                          ©©©
 echo ©©©          This Script will backup your database every 30 minutes          ©©©
-echo ©©©             to the following directory "Desktop\DayZBackup"              ©©©
 echo ©©©                    To end this Script, just close it.                    ©©©
 echo ©©©                                                                          ©©©
 echo ©©©                                                                          ©©©
