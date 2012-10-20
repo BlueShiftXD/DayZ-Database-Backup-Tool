@@ -1,6 +1,6 @@
 How to Install:
 
-Copy to any directory, open along-side
+Copy either the .bat or .exe to any directory, open along-side
 with your server start batch file.
 
 What It Does:
