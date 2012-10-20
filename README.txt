@@ -16,6 +16,12 @@ Creates the following directories if they don't exist:
 Once, they're made, the first backup is made.
 After 2 hours all 4 folders should contain different databases.
 
+Disclaimer:
+
+This program was tested on Windows 7 Ultimate 64-bit ONLY.
+You can make it compatible with your system by simply downloading the
+batch file and customizing the paths.
+
 Credits:
 
 Made by BlueShiftXD.
